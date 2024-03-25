@@ -5,4 +5,4 @@ A program that calculates an area of different figures
 You will need to install the latest version of Visual Studio 2022 to compile the project.
 
 # Usage
-Run the compiled file. Enter a figure name, enter required informations.
+Run the compiled file **in cmd**. Enter a figure name, enter required informations.
