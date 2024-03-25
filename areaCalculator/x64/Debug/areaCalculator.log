@@ -1,0 +1,15 @@
+﻿  areaCalculator.cpp
+C:\Users\murga\source\repos\areaCalculator\areaCalculator\calculationsArea.h(3,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'areaCalculator.cpp')
+  
+C:\Users\murga\source\repos\areaCalculator\areaCalculator\calculationsArea.h(7,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'areaCalculator.cpp')
+  
+C:\Users\murga\source\repos\areaCalculator\areaCalculator\calculationsArea.h(42,46): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'areaCalculator.cpp')
+  
+C:\Users\murga\source\repos\areaCalculator\areaCalculator\calculationsArea.h(47,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'areaCalculator.cpp')
+  
+  LINK : C:\Users\murga\source\repos\areaCalculator\x64\Debug\areaCalculator.exe not found or not built by the last incremental link; performing full link
+  areaCalculator.vcxproj -> C:\Users\murga\source\repos\areaCalculator\x64\Debug\areaCalculator.exe
